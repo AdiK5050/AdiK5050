@@ -5,7 +5,7 @@
 - 📫 How to reach me (email:- kumraditya456@gmail.com)
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I am just a beginner and lazy as hell
-- I don't know how to use github and update repositories add projects but I will learn eventually! Thanks
+- 
 - 
 <!---
 AdiK5050/AdiK5050 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
