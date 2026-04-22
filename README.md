@@ -1,10 +1,10 @@
 - 👋 Hi, I’m @AdiK5050
 - 👀 I’m interested in programming and gaming
-- 🌱 I’m currently learning Java(From YT) and C/C++(In college)
-- 💞️ I’m looking to collaborate on (I'll give a thought)
+- 🌱 I’m currently learning Kotlin Multiplatform.
+- 💞️ I’m looking to collaborate on (Personal Projects/Open Source Contributions)
 - 📫 How to reach me (email:- kumraditya456@gmail.com)
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: I am just a beginner and lazy as hell
+- ⚡ Fun fact: I still consider myself a beginner and I am learning more.
 - 
 - 
 <!---
